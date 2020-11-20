@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AWS LibraryExample</string>
+    <string name="msg_token_fmt">AWS LibraryExample</string>
+</resources>

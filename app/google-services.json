@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109615891007",
+    "firebase_url": "https://advance-totem-277117.firebaseio.com",
+    "project_id": "advance-totem-277117",
+    "storage_bucket": "advance-totem-277117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109615891007:android:68970f317aef8d3a21ee8a",
+        "android_client_info": {
+          "package_name": "com.example.awslibraryexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109615891007-3561i5dv0amrsppvmlcqbrvne43jabit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUAYpbGPSs21N4nRznsp3CD4f3faT4ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109615891007-3561i5dv0amrsppvmlcqbrvne43jabit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

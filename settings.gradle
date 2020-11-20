@@ -1,0 +1,3 @@
+include ':laxmiaws'
+include ':app'
+rootProject.name = "AWS LibraryExample"
